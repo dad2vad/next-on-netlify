@@ -16,25 +16,25 @@ exports.handler = (event, context, callback) => {
     </Head>
     <main>
       <h1 className="title">
-        Welcome to <a href="https://nextjs.org">Next.js!</a>
+        Welcome to <a href="/App">?App</a>
       </h1>
       <p className="description">
-        Get started by editing <code>pages/index.js</code>
+        to [App] <code>pages /index.js</code>
       </p>
       <div className="grid">
-        <a href="https://nextjs.org/docs" className="card">
-          <h3>Documentation &rarr;</h3>
+        <a href="/TWO" className="card">
+          <h1>TWO &rarr;</h1>
           <p>Find in-depth information about Next.js features and API.</p>
         </a>
-        <a href="https://nextjs.org/learn" className="card">
-          <h3>Learn &rarr;</h3>
+        <a href="/json" className="card">
+          <h1>Json &rarr;</h1>
           <p>Learn about Next.js in an interactive course with quizzes!</p>
         </a>
         <a
-          href="https://github.com/zeit/next.js/tree/master/examples"
+          href="/db"
           className="card"
         >
-          <h3>Examples &rarr;</h3>
+          <h1>[db] &rarr;</h1>
           <p>Discover and deploy boilerplate example Next.js projects.</p>
         </a>
         <a
