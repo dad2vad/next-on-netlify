@@ -8,10 +8,22 @@
     "axios": "^0.18.0",
     "encoding": "^0.1.12",
     "netlify-lambda": "^1.4.11",
-    "next": "^8.1.0",
+    
     "next-aws-lambda": "^2.0.0-alpha.0",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    
+        "firebase": "^7.10.0",
+    "fs": "0.0.1-security",
+    "isomorphic-unfetch": "3.0.0",
+    "lodash": "^4.17.11",
+    "micro-cors": "^0.1.1",
+    "next": "latest",
+    "ngrok": "^3.2.7",
+    "now": "^17.0.4",
+
+    "swr": "^0.1.18",
+    "tabletop": "^1.6.2"
   },
   "scripts": {
     "dev": "next",
